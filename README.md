@@ -52,3 +52,5 @@ JAVA class contents
        ** 기본타입 : 8개(boolean, char, byte, short, int, long, float, double)
        ** 레퍼런스 타입 : 1개(용도는 3가지로 나눔)           
               *** 배열(array), 클래스(class), 인터페이스(interface)
+
+* 명시적 형변환 / 묵시적 형변환 : 규칙은 큰 자료형을 따름. (작은데이터 -> 큰데이터(묵시적), (큰데이터-> 작은데이터(명시적, 무조건 타입을 써줘야함))  
